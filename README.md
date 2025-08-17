@@ -27,7 +27,7 @@ A simple and clean **Todo App** built with **Flutter**, featuring **local storag
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bhupenderParmar/todo_app.git
+   git clone https://github.com/bhupenderParmar/todo-app.git
 
 
 ## 📲 Download APK
