@@ -28,3 +28,11 @@ A simple and clean **Todo App** built with **Flutter**, featuring **local storag
 1. Clone the repository:
    ```bash
    git clone https://github.com/bhupenderParmar/todo_app.git
+
+
+## 📲 Download APK
+
+[![Download](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/bhupenderParmar/todo-app/releases/download/v1.0.0/app-release.apk)
+
+👉 Or [click here to download directly](https://github.com/bhupenderParmar/todo-app/releases/download/v1.0.0/app-release.apk)
+   
